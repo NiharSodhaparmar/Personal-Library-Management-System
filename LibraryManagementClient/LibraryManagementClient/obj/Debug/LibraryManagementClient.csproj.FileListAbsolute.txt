@@ -1,0 +1,25 @@
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe.config
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.pdb
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Properties.Resources.resources
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csproj.GenerateResource.Cache
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.exe
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.pdb
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Books.resources
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Category.resources
+E:\SEM 6\SOC\SES 3\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Main.resources
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe.config
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.exe
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Books.resources
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Category.resources
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Properties.Resources.resources
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.csproj.GenerateResource.Cache
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.Main.resources
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagementClient\LibraryManagementClient\bin\Debug\LibraryManagementClient.exe.config
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.exe
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagementClient\LibraryManagementClient\obj\Debug\LibraryManagementClient.pdb

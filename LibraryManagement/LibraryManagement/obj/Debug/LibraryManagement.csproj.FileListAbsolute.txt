@@ -1,0 +1,10 @@
+E:\SEM 6\SOC\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\SEM 6\SOC\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb

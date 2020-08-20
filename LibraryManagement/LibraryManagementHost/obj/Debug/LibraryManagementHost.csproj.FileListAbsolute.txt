@@ -1,0 +1,19 @@
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.exe.config
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.exe
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.pdb
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagement.pdb
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.exe
+E:\SEM 6\SOC\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.exe.config
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.exe
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.exe
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagement.dll
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagement.pdb
+E:\SEM 6\SOC\NEW LIBRARY\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.csprojResolveAssemblyReference.cache
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagement\LibraryManagementHost\bin\Debug\LibraryManagementHost.exe.config
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.exe
+E:\SEM 6\SOC\Personal-Library-Management\LibraryManagement\LibraryManagementHost\obj\Debug\LibraryManagementHost.pdb
